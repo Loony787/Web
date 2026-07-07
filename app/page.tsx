@@ -1,8 +1,9 @@
+import Hero from "@/components/Hero";
+
 export default function Home() {
   return(
-    <main className="flex min-h-screen flex-col items-center justify-center">
-      <h1 className="text-4xl font-bold">Landing Page</h1>
-      <p className="mt-4 text-lg text-gray-600">In Arbeit...</p>
+    <main>
+      <Hero />
     </main>
   );
 }
