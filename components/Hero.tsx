@@ -11,7 +11,7 @@ export default function Hero(){
             
                 <source src="/videos/Hero.mp4" type="video/mp4"/>
             </video>
-            <div className="absolute inset-0 bg-black/0"/>
+            <div className="absolute inset-0"/>
             <div className="relative z-10 text-center text-white">
                 <h1 className="text-5xl font-bold md:text-7xl">
                     Main Page
