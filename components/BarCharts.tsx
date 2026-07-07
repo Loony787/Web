@@ -9,8 +9,7 @@ import {
     Tooltip,
     ResponsiveContainer,
 } from "recharts";
-import { monthlyData } from "@/Data/Chartdata";
-import { Xanh_Mono } from "next/font/google";
+import { monthlyData } from "@/Data/chartData";
 
 export default function BarCharts() {
     return(
