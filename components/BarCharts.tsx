@@ -9,7 +9,7 @@ import {
     Tooltip,
     ResponsiveContainer,
 } from "recharts";
-import { monthlyData } from "@/Data/chartdata";
+import { monthlyData } from "@/Data/Chartdata";
 
 export default function BarCharts() {
     return(
